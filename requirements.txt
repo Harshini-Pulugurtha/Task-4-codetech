@@ -1,0 +1,12 @@
+streamlit 
+transformers 
+torch
+sentencepiece
+SpeechRecognition 
+pydub
+streamlit-audiorecorder
+tensorflow
+tensorflow-hub 
+pillow 
+matplotlib
+numpy
